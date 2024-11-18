@@ -1,3 +1,4 @@
+# Nedelcu Alexandru-Constantin
 #!/bin/bash
 
 DNS_SERVER = $1
